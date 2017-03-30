@@ -1,0 +1,17 @@
+{
+  "name": "s3-upload",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.2.19",
+    "body-parser": "^1.13.2",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.3"
+  }
+}
